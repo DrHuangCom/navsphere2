@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1_1",
+          "title": "AI Math Handbook Calculator",
+          "href": "https://mathHand.com/math/",
+          "description": "数学手mathHand.com是一款久负盛名的专业级图形化数学计算器软件，被网友称为手机上的数学运算和数学作图神器！",
+          "icon": "/assets/images/logos/analytics.ico",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -14,7 +22,7 @@
           "enabled": true
         },
         {
-          "id": "1_1",
+          "id": "1_11",
           "title": "Google Analytics",
           "href": "https://analytics.google.com/",
           "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
